@@ -1,0 +1,16 @@
+#heading {
+    color: #EF9D51;
+    font-size: 100px;
+}
+
+img:hover {
+    background-color: gold;
+}
+
+.french-fries {
+    background-color: cornsilk;
+}
+
+.Hamburger {
+    background-color: beige;
+}
