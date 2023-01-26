@@ -23,6 +23,7 @@ h1 {
     /* 100% = 16px = 1em ==>  */
     font-size: 5.625rem;
     color: #66BFBF;
+    line-height: 2;
 }
 
 h2 {
@@ -61,4 +62,12 @@ span {
 
 .skill-row-img1 {
     border-radius: 50%;
+}
+
+.skill-row {
+    width: 50%;
+}
+
+.skill-row h3,p {
+    display: inline-block;
 }
