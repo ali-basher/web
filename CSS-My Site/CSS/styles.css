@@ -68,6 +68,11 @@ span {
     width: 50%;
 }
 
+h3, h3 p {
+   display: inline-block;
+}
+
+
 .skill-row h3,p {
     display: inline-block;
 }
