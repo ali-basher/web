@@ -3,11 +3,9 @@ body{
 }
 
 hr{
-    border-style:  none;
-    border-top-style: dotted;
-    border-width: 6px;
-    border-color: gray;
-    width: 5%;
+    width: 6%;
+    border: 10px dotted #EAF6F6;
+    border-bottom: none;
 }
 
 h1, h3{
